@@ -91,7 +91,7 @@ When typing new lines at the bottom of the buffer in Insert mode, the content al
 
 | Field | Value |
 |---|---|
-| Issue URL | (to fill after filing) |
-| Filed date | (to fill) |
-| Status | (to fill) |
+| Issue URL | https://github.com/anthropics/claude-code/issues/39828 |
+| Filed date | 2026-03-27 |
+| Status | Open |
 | Maintainer response | (to fill) |
